@@ -13,15 +13,15 @@
 ![Terminal](screenshots/Screen1.png)
 
 ### Annotated Output — Iron Man HUD
-![Annotated](screenshots/Screen2.jpg)
+![Annotated](screenshots/Screen2.png)
 
-![Annotated](screenshots/Screen3.jpg)
+![Annotated](screenshots/Screen3.png)
 
-![Annotated](screenshots/Screen4.jpg)
+![Annotated](screenshots/Screen4.png)
 
-![Annotated](screenshots/Screen5.jpg)
+![Annotated](screenshots/Screen5.png)
 
-![Annotated](screenshots/Screen6.jpg)
+![Annotated](screenshots/Screen6.png)
 
 ---
 
@@ -121,7 +121,7 @@ starkvis/
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/YOUR_USERNAME/starkvis
+git clone https://github.com/HEX027/starkvis
 cd starkvis
 ```
 

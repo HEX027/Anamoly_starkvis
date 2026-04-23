@@ -17,7 +17,7 @@
 
 ### Live Terminal Output
 
-![Annotated]<img src=".(screenshots/Screen5.png)" width="400">
+![Annotated](screenshots/Screen5.png?v=1)
 
 
 ### Annotated Output — Iron Man HUD

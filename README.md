@@ -9,18 +9,17 @@
 
 ## Screenshots
 
-### Live Terminal Output
+### Annotated Output — Iron Man HUD
 ![Terminal](screenshots/Screen1.png)
 
-### Annotated Output — Iron Man HUD
+### Live Terminal Output
 ![Annotated](screenshots/Screen2.png)
 
-### Live Terminal Output
-
-![Annotated](screenshots/Screen5.png?v=1)
-
 
 ### Annotated Output — Iron Man HUD
+![Annotated](screenshots/Screen5.png?v=1)
+
+### Live Terminal Output
 ![Annotated](screenshots/Screen6.png)
 
 
@@ -70,7 +69,6 @@
 starkvis/
 ├── detector.py       — YOLOv8 pipeline + Iron Man HUD renderer
 ├── camera.py         — Jetson USB camera · live feed · FrameReader thread
-├── demo_output.py    — Generate sample annotated image (no camera needed)
 ├── Dockerfile        — Container build
 ├── requirements.txt  — Python dependencies
 └── README.md
@@ -216,8 +214,3 @@ eog ~/starkvis/output/starkvis_*.jpg
 ## License
 
 MIT — Free to use, modify, and deploy.
-
----
-
-*"Systems online. All functions nominal, sir."*  
-— STARKVIS · Stark Industries · Vision OS v3.7

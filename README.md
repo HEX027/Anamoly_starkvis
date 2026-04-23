@@ -15,12 +15,12 @@
 ### Annotated Output — Iron Man HUD
 ![Annotated](screenshots/Screen2.png)
 
-
+### Live Terminal Output
 
 ![Annotated](screenshots/Screen5.png)
 
 
-
+### Annotated Output — Iron Man HUD
 ![Annotated](screenshots/Screen6.png)
 
 

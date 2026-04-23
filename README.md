@@ -15,10 +15,6 @@
 ### Annotated Output — Iron Man HUD
 ![Annotated](screenshots/Screen2.png)
 
-![Annotated](screenshots/Screen3.png)
-
-![Annotated](screenshots/Screen4.png)
-
 
 
 ![Annotated](screenshots/Screen5.png)

@@ -10,10 +10,18 @@
 ## Screenshots
 
 ### Live Terminal Output
-![Terminal](screenshots/terminal.png)
+![Terminal](screenshots/Screen1.png)
 
 ### Annotated Output — Iron Man HUD
-![Annotated](screenshots/annotated.jpg)
+![Annotated](screenshots/Screen2.jpg)
+
+![Annotated](screenshots/Screen3.jpg)
+
+![Annotated](screenshots/Screen4.jpg)
+
+![Annotated](screenshots/Screen5.jpg)
+
+![Annotated](screenshots/Screen6.jpg)
 
 ---
 
